@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: SensorLive
+Version: 0.1.0
+Summary: A Python package for real-time sensor data processing and visualization.
+Author: Omkar Nagargoje
+Author-email: imhere2k4@gmail.com
+Requires-Dist: pymongo==4.2.0
+Requires-Dist: pydantic
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: xgboost
+Requires-Dist: imblearn
+Requires-Dist: category-encoders
+Requires-Dist: cloudpickle
+Requires-Dist: python-dotenv
+Requires-Dist: SQLAlchemy
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: gunicorn
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Requires-Dist: mlflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

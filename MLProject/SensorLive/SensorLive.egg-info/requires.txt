@@ -1,0 +1,17 @@
+pymongo==4.2.0
+pydantic
+scikit-learn
+pandas
+numpy
+xgboost
+imblearn
+category-encoders
+cloudpickle
+python-dotenv
+SQLAlchemy
+flask
+flask-cors
+gunicorn
+pytest
+pytest-cov
+mlflow

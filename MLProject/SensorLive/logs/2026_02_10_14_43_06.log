@@ -1,0 +1,4 @@
+[2026-02-10 14:43:06,859] INFO root — Reading CSV file
+[2026-02-10 14:43:14,789] INFO root — Inserted 60000 records into MongoDB
+[2026-02-10 14:43:15,021] INFO root — ==== ML Pipeline Execution Started ====
+[2026-02-10 14:43:15,022] INFO root — ==== ML Pipeline Execution Completed ====
